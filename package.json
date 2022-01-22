@@ -1,10 +1,10 @@
 {
-  "name": "ddb50",
-  "displayName": "ddb50",
-  "description": "",
+  "name": "duckdebugger",
+  "displayName": "Duck Debugger",
+  "description": "Based on CS50 duck debugger. Credits to https://github.com/cs50/ddb50.vsix",
   "version": "0.0.1",
-  "publisher": "CS50",
-	"repository": "https://github.com/cs50/ddb50.vsix",
+  "publisher": "williamnava",
+  "repository": "https://github.com/williamnavaraj/ddb50.vsix",
   "engines": {
     "vscode": "^1.59.0"
   },
@@ -20,7 +20,7 @@
       "ddb50": [
         {
           "id": "ddb50.debugView",
-          "name": "CS50 Duck Debugger",
+          "name": "Duck Debugger",
           "type": "webview"
         }
       ]
@@ -29,7 +29,7 @@
       "activitybar": [
         {
           "id": "ddb50",
-          "title": "CS50 Duck Debugger",
+          "title": "Duck Debugger",
           "icon": "resources/ddb.png"
         }
       ]
