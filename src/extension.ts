@@ -43,7 +43,7 @@ class DDBViewProvider implements vscode.WebviewViewProvider {
 				<body>
 					<div id="ddbChatContainer">
 						<div id="ddbChatText"></div>
-						<div id="ddbInput"><textarea placeholder="Message ddb"></textarea></div>
+						<div id="ddbInput"><textarea placeholder="Message Duckie"></textarea></div>
 					</div>
 				</body>
 			</html>
