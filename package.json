@@ -1,7 +1,7 @@
 {
   "name": "duckdebugger",
   "displayName": "Duck Debugger",
-  "description": "One person pairing tool https://en.wikipedia.org/wiki/Rubber_duck_debugging . Forked from CS50 duck debugger. Credits to https://github.com/cs50/ddb50.vsix",
+  "description": "One person pairing tool A. k. a. https://en.wikipedia.org/wiki/Rubber_duck_debugging . Forked from CS50 duck debugger. Credits to https://github.com/cs50/ddb50.vsix",
   "version": "0.0.1",
   "publisher": "williamNava",
   "repository": "https://github.com/williamnavaraj/ddb50.vsix",
